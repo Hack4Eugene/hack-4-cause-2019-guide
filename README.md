@@ -14,12 +14,5 @@ Herein you'll find the most up-to-date and relevant information to help you navi
 ## Getting Started
 The beginning is a very delicate time.  Know then, that you will need to find a team to participate in the hack.  Being aware the challenges is a great first step.  Follow the checklist below and you'll find yourself on team, addressing a challenge.  This is your first task.
 
-- 
-
-
-
-
-
-
-
-
+- [Join the Slack](https:/communityinviter.com/apps/hack4cause/inviter) if you have not already and look for the #team-formation channel and introduce yourself and how you would like to help.
+- [Review the Challenges]([https://hackforacause.org/challenges-2019](https://hackforacause.org/challenges-2019)) and then visit the #challenges channel for general challenge chat and then the specific #c-challenge-name channels.
